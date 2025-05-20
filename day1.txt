@@ -1,0 +1,6 @@
+CLI-The command line interface
+some commands in git:
+git init-enables git to track your code
+git clone-download a code from an account in github
+fork-copy the code to your own github account and work on it without interfering with the original code
+git push-push your code to github
